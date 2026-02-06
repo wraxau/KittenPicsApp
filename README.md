@@ -13,7 +13,7 @@
 - Swift
 
 ## Скриншоты
-![Screenshot](1.png)  
-![Screenshot](2.png)  
-![Screenshot](3.png)  
+![Screenshots](1.png)  
+![Screenshots](2.png)  
+![Screenshots](3.png)  
 
