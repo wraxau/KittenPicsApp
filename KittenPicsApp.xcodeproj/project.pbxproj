@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2223A1FB2F360CF8006DE146 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2223A1FA2F360CF8006DE146 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		2223A1DF2F35DD2C006DE146 /* KittenPicsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KittenPicsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2223A1FA2F360CF8006DE146 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -29,6 +34,11 @@
 			path = KittenPicsApp;
 			sourceTree = "<group>";
 		};
+		2223A1FC2F360D42006DE146 /* Screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +55,8 @@
 		2223A1D62F35DD2C006DE146 = {
 			isa = PBXGroup;
 			children = (
+				2223A1FA2F360CF8006DE146 /* README.md */,
+				2223A1FC2F360D42006DE146 /* Screenshots */,
 				2223A1E12F35DD2C006DE146 /* KittenPicsApp */,
 				2223A1E02F35DD2C006DE146 /* Products */,
 			);
@@ -75,6 +87,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				2223A1E12F35DD2C006DE146 /* KittenPicsApp */,
+				2223A1FC2F360D42006DE146 /* Screenshots */,
 			);
 			name = KittenPicsApp;
 			packageProductDependencies = (
@@ -122,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2223A1FB2F360CF8006DE146 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
