@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  KittenPicsApp
-//
-//  Created by нина on 06.02.2026.
-//
-
 import UIKit
 
 @main
